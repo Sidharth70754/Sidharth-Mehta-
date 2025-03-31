@@ -1,0 +1,42 @@
+# Portfolio Website Prompt for Cursor AI
+
+## **Objective:**  
+Create a modern, visually appealing personal portfolio website with a sleek and interactive UI, inspired by [Framer Plugins](https://www.framer.com/plugins/). The portfolio should have smooth animations, dynamic hover effects, and a clean, structured layout.
+
+## **Pages & Features:**  
+
+### **1. Home Page:**  
+- Hero section with my name, profession, and a subtle animated background.  
+- Call-to-action button for viewing projects.  
+- Navigation bar with smooth scroll effects.  
+
+### **2. Projects Page:**  
+- Grid-based layout with interactive project cards.  
+- Each card should have a hover animation revealing project details.  
+- Clicking a project should open a modal or redirect to a dedicated page.  
+
+### **3. Achievements Page:**  
+- A well-structured list or card-based display for awards, certificates, and recognitions.  
+- Dynamic scrolling effects to highlight key achievements.  
+
+### **4. About Us Page:**  
+- A short bio section with an image.  
+- A skills section with animated progress bars or interactive icons.  
+- A timeline of my career journey.  
+
+### **5. Contact Page:**  
+- Interactive contact form with validation.  
+- Social media links with hover effects.  
+- Option to download my resume.  
+
+## **Design & Animations:**  
+- Dark mode with subtle gradients and smooth hover transitions.  
+- 3D-like interactive effects on buttons and cards.  
+- Responsive layout for all devices.  
+- Fluid animations for a premium feel.  
+
+## **Tech Stack & Integration:**  
+- Built using **Framer, React, and Tailwind CSS** for responsiveness.  
+- Integrated with **Cursor AI** to ensure seamless UX.  
+- Ensure lightweight assets for fast load times.
+
